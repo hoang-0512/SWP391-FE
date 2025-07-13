@@ -173,11 +173,9 @@ export default function HealthExaminationClassDetail({
     setIsDialogOpen(false);
   };
 
-  // Placeholder for closeConsultationDialog if not defined
   const closeConsultationDialog = () => {
     setIsDialogOpen(false);
   };
-  // Placeholder for handleScheduleConsultation if not defined
   const handleScheduleConsultation = () => {
     // Implement scheduling logic here if needed
   };
